@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "open public/index.html"
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/abubanggheed/angularjs-food/issues"
   },
-  "homepage": "https://github.com/abubanggheed/angularjs-food#readme"
+  "homepage": "https://github.com/abubanggheed/angularjs-food#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
 }
