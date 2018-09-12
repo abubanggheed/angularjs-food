@@ -1,0 +1,20 @@
+{
+  "name": "angularjs-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "open public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abubanggheed/angularjs-food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abubanggheed/angularjs-food/issues"
+  },
+  "homepage": "https://github.com/abubanggheed/angularjs-food#readme"
+}
